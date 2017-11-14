@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>../img/appico.ico</file>
+        <file>../img/brick.png</file>
+        <file>../img/eagle.png</file>
+        <file>../img/empty.png</file>
+        <file>../img/forest.png</file>
+        <file>../img/ice.png</file>
+        <file>../img/iron.png</file>
+        <file>../img/respawn.png</file>
+        <file>../img/river.png</file>
+        <file>../img/tank-level-1.png</file>
+        <file>../img/shell.png</file>
+        <file>../img/tank-level-2.png</file>
+        <file>../img/tank-level-3.png</file>
+        <file>../img/tank-level-4.png</file>
+        <file>../img/bonus-life.png</file>
+        <file>../img/bonus-shovel.png</file>
+        <file>../img/bonus-star.png</file>
+        <file>../img/bonus-time.png</file>
+        <file>../img/bonus-bomb.png</file>
+        <file>../img/scoreboard-ai.png</file>
+        <file>../img/shell-overlap.png</file>
+        <file>../img/ai-tank-level-1.png</file>
+        <file>../img/ai-tank-level-1-bonus.png</file>
+        <file>../img/ai-tank-level-2.png</file>
+        <file>../img/ai-tank-level-2-bonus.png</file>
+        <file>../img/ai-tank-level-3.png</file>
+        <file>../img/ai-tank-level-3-bonus.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>demoGameMap</file>
+    </qresource>
+</RCC>
